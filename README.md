@@ -1,4 +1,8 @@
 # HOSPITAL MANAGEMENT SYSTEM
-IN this project I have Configured a Graphic User Interface that takes input about a patient's personal information, their health issue and medications prescribed by the doctor and store it in a MySQL database at the backend.
+Configured a Graphic User Interface that takes input about a patient’s personal info., their health issue and medications prescribed and store it in a SQL database at the back￿end which can later be used for printing prescription and search patient’s past medical history.
 
-Software and modules used in this project are **Python tkinter**, **Python MySQL.connector** and **MySQL server**.
+Software and modules used in this project are `Python tkinter` for **frontend GUI Design**, `Python MySQL.connector` for **connnecting python code with MySQL server**  and `MySQL server` for **storing data in the database at backend**.
+
+GUI Image 
+
+Backend MySQL Database Image
